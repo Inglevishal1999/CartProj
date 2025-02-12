@@ -9,8 +9,7 @@ const Cart = () => {
     <>
       <div className="m-10">
         <h1 className=" h-40 p-14 text-2xl">Shopping Cart :</h1>
-        <CartProd1/>
-        <NewPr/>
+        
       </div>
     </>
   );
